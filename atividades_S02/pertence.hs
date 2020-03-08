@@ -1,0 +1,1 @@
+func pertence n = elem n [x | x <- pertence]

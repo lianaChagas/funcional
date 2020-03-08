@@ -1,0 +1,1 @@
+menorDeTres x y z = minimum [x,y,z]

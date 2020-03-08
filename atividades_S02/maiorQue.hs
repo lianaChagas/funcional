@@ -1,0 +1,1 @@
+func maiorQue n = [n | n <- maiorQue, n > 10]

@@ -1,0 +1,1 @@
+func elemento n = [x | x <- elemento, x == elemento !! n]

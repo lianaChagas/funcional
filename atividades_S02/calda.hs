@@ -1,0 +1,1 @@
+calda x = tail x
